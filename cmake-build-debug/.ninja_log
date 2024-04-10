@@ -1,0 +1,7 @@
+# ninja log v5
+5	278	1712693295300983780	CMakeFiles/healer_video_library.dir/VideoExtension.cpp.o	3e0a499a963a3cec
+6	249	1712693087776032286	CMakeFiles/healer_video_library.dir/main.cpp.o	ff798b76b7ac8217
+278	308	1712693295331298715	healer_video_library	1b1677c6588fd307
+5	186	1712700222128741799	CMakeFiles/healer_video_library.dir/VideoExtension.cpp.o	3e0a499a963a3cec
+5	220	1712700222162221089	CMakeFiles/healer_video_library.dir/main.cpp.o	ff798b76b7ac8217
+220	250	1712700222193420430	healer_video_library	142ebf43cf2486c1
